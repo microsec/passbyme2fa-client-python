@@ -33,6 +33,8 @@ Table of contents
 Installation
 ============
 
+Minimum required Python version is 2.7.9.
+
 ::
 
     pip install passbyme2fa_client
